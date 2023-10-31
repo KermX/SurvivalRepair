@@ -1,0 +1,4 @@
+name: SurvivalRepair
+version: '${project.version}'
+main: me.kermx.survivalrepair.SurvivalRepair
+api-version: '1.20'
